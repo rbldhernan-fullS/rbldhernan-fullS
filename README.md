@@ -8,7 +8,7 @@
 
 ---
 
-## <center> Sobre mí </center>
+## Sobre mí
 
 Soy estudiante de desarrollo de software con formación como Técnico en Programación de Software.  
 
@@ -18,7 +18,7 @@ Actualmente me encuentro en constante aprendizaje, enfocado en mejorar mis habil
 
 ---
 
-## 🧩 Proyectos
+## Proyectos
 
 🔹 **Sistema de Inventario (en desarrollo)**  
 Aplicación web para gestión de productos utilizando Python y Flask.  
@@ -30,7 +30,7 @@ Diseño de página web responsive con HTML, CSS y JavaScript.
 
 ---
 
-## 🛠️ Tecnologías y habilidades
+## Tecnologías y habilidades
 
 ### 💻 Lenguajes
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
