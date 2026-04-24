@@ -4,7 +4,7 @@
 
 💻 **Desarrollador Full Stack en formación**  
 📚 Estudiante de Tecnología en Análisis y Desarrollo de Software  
-🎯 Buscando contrato de aprendizaje  
+Busqueda de contrato de aprendizaje  
 
 ---
 
