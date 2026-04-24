@@ -56,5 +56,5 @@ Próximamente más proyectos...
 
 ---
 
-⭐ *Siempre aprendiendo y mejorando cada día*
+*Siempre aprendiendo y mejorando cada día*
 
