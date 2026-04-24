@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## <center> Sobre mí </center>
 
 Soy estudiante de desarrollo de software con formación como Técnico en Programación de Software.  
 
