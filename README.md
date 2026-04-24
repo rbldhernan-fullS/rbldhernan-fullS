@@ -18,7 +18,7 @@ Actualmente me encuentro en constante aprendizaje, enfocado en mejorar mis habil
 
 ## Proyectos
 
-🔹 **Sistema de Inventario (en desarrollo)**  
+🔹 **Sistema de Inventario**  
 Aplicación web para gestión de productos utilizando Python y Flask.  
 
 🔹 **Landing Page Web**  
