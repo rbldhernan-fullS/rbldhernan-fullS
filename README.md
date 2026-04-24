@@ -11,9 +11,7 @@ Busqueda de contrato de aprendizaje
 ## Sobre mí
 
 Soy estudiante de desarrollo de software con formación como Técnico en Programación de Software.  
-
-Tengo conocimientos en desarrollo web, fundamentos de programación y soporte técnico, además de bases en Python.  
-
+Tengo conocimientos en desarrollo web, fundamentos de programación y soporte técnico, además de fundamentos de Python.  
 Actualmente me encuentro en constante aprendizaje, enfocado en mejorar mis habilidades y desarrollar proyectos prácticos que aporten valor.
 
 ---
@@ -26,7 +24,7 @@ Aplicación web para gestión de productos utilizando Python y Flask.
 🔹 **Landing Page Web**  
 Diseño de página web responsive con HTML, CSS y JavaScript.  
 
-👉 Próximamente más proyectos...
+Próximamente más proyectos...
 
 ---
 
